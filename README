@@ -2,7 +2,12 @@
 Bonjour monsieur
 Voici les documents liés au projet du groupe 11
 
-
+Système de Gestion d'un Parking 🚗
+Objectif : Créer une application permettant de gérer l’entrée et la sortie des véhicules d’un parking.
+Compétences visées :
+✅ Utilisation des structures de données (Queue, Stack).
+✅ Gestion du temps d’entrée et de sortie avec l’API LocalDateTime.
+✅ Calcul automatique du montant à payer en fonction de la durée de stationnement
 Les membres du groupe :
 1- ATEKOU K. Rodrigue
 2- AHOGA Edison
